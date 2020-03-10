@@ -28,7 +28,7 @@ https://www.qwiklabs.com/focuses/1029?catalog_rank=%7B%22rank%22%3A3%2C%22num_fi
 
 ## Kubernetes
 
-Given a set of Docker containers, how to manage those containers has a whole. Kubernetes allows to deploy a set of containers in a clusters of nodes (composed of virtual or real machines).
+Given a set of Docker containers, how to manage those containers as a whole. Kubernetes allows to deploy a set of containers in a clusters of nodes (composed of virtual or real machines).
 
 https://github.com/charroux/kubernetes
 https://github.com/charroux/kubernetes-volume
