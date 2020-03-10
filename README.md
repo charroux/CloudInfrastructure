@@ -31,7 +31,9 @@ https://www.qwiklabs.com/focuses/1029?catalog_rank=%7B%22rank%22%3A3%2C%22num_fi
 Given a set of Docker containers, how to manage those containers as a whole. Kubernetes allows to deploy a set of containers in a clusters of nodes (composed of virtual or real machines).
 
 https://github.com/charroux/kubernetes
+
 https://github.com/charroux/kubernetes-volume
+
 https://github.com/charroux/CodingWithKubernetes
 
 https://www.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=4807987
