@@ -20,7 +20,7 @@ https://www.qwiklabs.com/focuses/8498?catalog_rank=%7B%22rank%22%3A4%2C%22num_fi
 
 ## Docker
 
-Since a microservice application is language agnostic many heterogeneous technology can be used together. But how to deploy heterogeneous applications? A first step is to embed each service inside a Docker container. Hence from an Ops point of view (the Ops part of the DevOps approach) there all only Docker containers.
+Since a microservice application is language agnostic, many heterogeneous technology can be used together. But how to deploy heterogeneous applications? A first step is to embed each service inside a Docker container. Hence from an Ops point of view (the Ops part of the DevOps approach) there all only Docker containers.
 
 https://github.com/charroux/docker
 
